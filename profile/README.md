@@ -1,6 +1,7 @@
 # Bitcoin Silver
 
-![Bitcoin Silver Logo](https://github.com/user-attachments/assets/0dc6dbbf-ca32-4cc5-a537-f82722efc420)
+![Bitcoin Silver Logo](https://github.com/user-attachments/assets/06fe1560-1897-48cf-be9c-4b838cdaefb2)
+
 
 
 ## What is Bitcoin Silver?
