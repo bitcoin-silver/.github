@@ -26,7 +26,7 @@ We invite developers, designers, and crypto enthusiasts to join us! You can cont
 
 For questions or inquiries, you can reach us at:
 
-- **Website:** [bitcoin-silver.com](https://bitcoinsilver.top)
+- **Website:** [bitcoinsilver.top](https://bitcoinsilver.top)
 - **Discord:** [Discord Link](https://discord.com/invite/MCGn7dzvgd)
 
 ---
