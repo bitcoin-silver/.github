@@ -22,13 +22,6 @@ We invite developers, designers, and crypto enthusiasts to join us! You can cont
 - Providing feedback
 - Following us on social media
 
-## Contact
-
-For questions or inquiries, you can reach us at:
-
-- **Website:** [bitcoinsilver.top](https://bitcoinsilver.top)
-- **Discord:** [Discord Link](https://discord.com/invite/MCGn7dzvgd)
-
 ---
 
 Thank you for supporting Bitcoin Silver! Let’s shape the future of cryptocurrencies together.
